@@ -1,1 +1,1 @@
-# piApproximate
+This program approximates the value of pi to the largest value entered. 
